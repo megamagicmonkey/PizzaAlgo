@@ -3,3 +3,5 @@
 3. Order from store preferred item
 4. pepperoni
 5. hot pizza
+6. Test branch directive: Order second preferred item if first is unavailable
+7. Tip 15%
