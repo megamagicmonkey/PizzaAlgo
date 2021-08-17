@@ -4,4 +4,6 @@
 4. pepperoni
 5. hot pizza
 6. Test branch directive: Order second preferred item if first is unavailable
+5. order by phone
+6. order online 
 7. Tip 15%
