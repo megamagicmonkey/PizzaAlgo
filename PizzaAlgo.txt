@@ -1,6 +1,9 @@
 1. Determine pizza joints within delivery range
 2. Select from priority list
 3. Order from store preferred item
-4. Test branch directive: Order second preferred item if first is unavailable
+4. pepperoni
+5. hot pizza
+6. Test branch directive: Order second preferred item if first is unavailable
 5. order by phone
 6. order online 
+7. Tip 15%
